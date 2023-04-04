@@ -297,5 +297,5 @@ GMP is distributed under the
 
 ## Relic license
 
-Relic is used with the
+Relic is used with the 
 [Apache 2.0 license](https://github.com/relic-toolkit/relic/blob/master/LICENSE.Apache-2.0)
